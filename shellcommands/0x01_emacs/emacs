@@ -1,0 +1,13 @@
+Emacs is called the extensible, customizable, self-documenting real-time display editor.
+Emacs includes speacial features to help us write in many different human languages and programming markup languages.
+Emacs also provides tools for compiling, running, and testing programs.Emacs integrates with GDB to provide an IDE (M-x gdb):
+Emacs can also compare two files and highlight their differences (M-x ediff):
+Emacs is a file manager (M-x dired):
+Emacs can read news, mail, and RSS feeds (M-x gnus):
+You can even play tetris in Emacs (M-x tetris)
+
+Why Emacs
+Emacs helps you be productive by providing an integrated environment for many different kinds of tasks:
+All of the basic editing commands(and there are lots of them) are available no matter what you are trying to do: write code, read a manual, use a shell, or compose an email.
+All the tools Emacs provides for opening, saving, searching and processing text (and more) are available to you no matter what you're doing.
+This uniformity means that working with Emacs is often easier than learning to use a separate program, especially when that program is liable to have its own set of editing capabilities and shortcuts.
